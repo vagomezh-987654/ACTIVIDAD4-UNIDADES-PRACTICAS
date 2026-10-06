@@ -1,4 +1,6 @@
 print("=== CALCULADORA ===")
+// toca agregar una secuencia de fibonacci
+
 
 num1 = float(input("Ingresa el primer número: "))
 operacion = input("Ingresa la operación (+, -, *, /): ")
